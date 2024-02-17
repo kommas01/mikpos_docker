@@ -1,5 +1,5 @@
 # Startup from alpine
-FROM alpine:3.14
+FROM alpine:3.19.1
 LABEL Maintainer = "Hilman Maulana, Naufal Azkia"
 LABEL Description = "Mikpos is a web-based application (MikroTik API PHP class) management users and payments that can be used in HotSpot and PPPoE MikroTik RouterOS users."
 
